@@ -1,2 +1,2 @@
 # Projects
-Responsive Web Design Certification
+Responsive Web Design Certifications
