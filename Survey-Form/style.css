@@ -73,3 +73,32 @@ label {
 span {
     font-size: 16px;
 }
+
+textarea {
+    height: 90px;
+    width: 100%;
+    border-width: 2px;
+}
+
+button, input, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.input-checkbox,
+.input-recommend {
+    display: inline-block;
+    margin-right: 10px;
+    min-height: 19px;
+    min-width: 19px;
+}
+
+.input-textarea {
+    min-height: 120px;
+    width: 100%;
+    padding: 5px;
+    resize: vertical;
+}
+
