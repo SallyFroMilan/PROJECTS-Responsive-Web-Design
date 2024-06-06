@@ -39,3 +39,16 @@ header {
     text-align: center;
 }
 
+p {
+    margin-top: 0;
+    margin-bottom: 8px;  
+}
+
+form {
+    background-color: #004687b4;
+    border: solid #007FFF;
+    border-radius: 10px;
+    padding: 17px 40px;
+    text-align: left;
+    width: 100%;
+}
