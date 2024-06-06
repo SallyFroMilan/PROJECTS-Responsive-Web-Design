@@ -52,3 +52,24 @@ form {
     text-align: left;
     width: 100%;
 }
+
+.forms {
+    display: flex;
+    padding: 7px 5px;
+    border: solid black;
+    width: 100%;
+}
+
+.form-group {
+    padding: 8px;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+span {
+    font-size: 16px;
+}
