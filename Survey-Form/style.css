@@ -1,0 +1,22 @@
+* {
+    box-sizing: content-box;
+}
+    
+.container {
+    align-items: center;
+    background-color: rgba(172, 139, 240, 0.6);
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background-image: url('../Survey/Image/pcgroup.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+}
