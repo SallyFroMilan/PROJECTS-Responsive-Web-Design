@@ -105,12 +105,12 @@ button, input, select, textarea {
 .submit-button {
     background-color: 008B8B;
     border: solid black;
-    border-width: 4px;
-    color: whitesmoke;
+    border-width: 2px;
+    color: white;
     cursor: pointer;
     display: block;
-    margin-top: 30px;
-    padding: 19px 8px;
+    margin-top: 20px;
+    padding: 14px 5px;
     height: 100%;
     width: 100%;
 }
