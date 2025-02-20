@@ -1,7 +1,7 @@
 * {
     box-sizing: content-box;
-}
-    
+}    
+
 .container {
     align-items: center;
     background-color: rgba(172, 139, 240, 0.6);
@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url('../Survey-Form/Image/pcgroup.jpg');
+    background-image: url('../Survey Form//Image/pcgroup.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -45,7 +45,7 @@ p {
 }
 
 form {
-    background-color: #004687b4;
+    background-color:#004687b4;
     border: solid #007FFF;
     border-radius: 10px;
     padding: 17px 40px;
@@ -87,8 +87,8 @@ button, input, select, textarea {
     line-height: inherit;
 }
 
-.input-checkbox,
-.input-recommend {
+.input-recommend,
+.input-checkbox {
     display: inline-block;
     margin-right: 10px;
     min-height: 19px;
@@ -103,7 +103,7 @@ button, input, select, textarea {
 }
 
 .submit-button {
-    background-color: 008B8B;
+    background-color: #008B8B;
     border: solid black;
     border-width: 2px;
     color: white;
